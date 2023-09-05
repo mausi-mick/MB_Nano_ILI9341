@@ -1,1 +1,1 @@
-# MB_Nano_ILI9341
+# MB_NANO_ILI9341
